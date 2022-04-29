@@ -1,1 +1,1 @@
-# Bounties
+# Filecoin and IPFS Hackathons
